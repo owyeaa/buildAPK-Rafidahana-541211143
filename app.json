@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "xiirpl4-541211143-28-rafidah-hana-f-siswa",
+    "slug": "snack-a285c116-fb41-41a3-9fcc-108ed6942551",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rafidaws.snacka285c116fb4141a39fcc108ed6942551"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dda70235-dbe2-49c9-ba36-cb06e42c343c"
+      }
+    }
+  }
+}
